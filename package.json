@@ -18,7 +18,7 @@
     "email": "me@jongleberry.com"
   },
   "scripts": {
-    "test": "make test"
+    "test": "node test"
   },
   "license": "MIT"
 }
