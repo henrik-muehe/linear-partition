@@ -1,7 +1,7 @@
 {
   "name": "linear-partition",
   "description": "Linear partition algorithm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "linear_partition.js",
   "author": {
     "name": "Jonathan Ong",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanong/linear-partition.git"
+    "url": "https://github.com/henrik-muehe/linear-partition.git"
   },
   "bugs": {
-    "url": "https://github.com/jonathanong/linear-partition/issues",
-    "email": "me@jongleberry.com"
+    "url": "https://github.com/henrik-muehe/linear-partition/issues",
+    "email": "henrik.muehe@gmail.com"
   },
   "scripts": {
     "test": "node test"

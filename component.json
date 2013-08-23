@@ -1,7 +1,7 @@
 {
   "name": "linear-partition",
   "description": "Linear partition algorithm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": [
     "linear_partition.js"
   ],
